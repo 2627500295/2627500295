@@ -5,7 +5,7 @@
 I'm **microld**, a senior front-end development engineer from Wuhan, Hubei, China.
 
 -   :hammer_and_pick: JS/TS/GitHub Actions, a little bit Rust/Golang.
--   :pencil2: Arch Linux & KDE & yakuake & Oh My Zsh & VS Code
+-   :pencil2: MacOS & Zsh & VS Code & IntelliJ IDEA & iTerm2.
 -   :seedling: Learning competitive programming
 -   :man: Pronouns: he/him
 
