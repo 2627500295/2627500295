@@ -6,18 +6,22 @@ I'm **microld**, a senior front-end development engineer from Wuhan, Hubei, Chin
 
 -   :hammer_and_pick: JS/TS/GitHub Actions, a little bit Rust/Golang.
 -   :pencil2: MacOS & Zsh & VS Code & IntelliJ IDEA & iTerm2.
--   :seedling: Learning competitive programming
--   :man: Pronouns: he/him
+-   :light_bulb: Clash & V2ray & Trojan & Shadowsocks.
+
+
 
 <!--
+-   :package: Building Huozi and more
+-   :seedling: Learning competitive programming
+-   :man: Pronouns: he/him
 -   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
--->
+
 
 ---
 
 
 ### Hi there 👋
-
+-->
 <!--
 **2627500295/2627500295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
