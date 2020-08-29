@@ -19,6 +19,22 @@ I'm **microld**, a senior front-end development engineer from Wuhan, Hubei, Chin
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/microsoft/TypeScript">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="100px;" alt="TypeScript"/>
+      </a>
+      <br />
+      <a href="https://github.com/microsoft/TypeScript">TypeScript</a>
+    </td>
+    <!-- -->
+    <td align="center">
+      <a href="https://github.com/babel/babel">
+        <img src="https://avatars2.githubusercontent.com/u/34177126" width="100px;" alt="babel"/>
+      </a>
+      <br />
+      <a href="https://github.com/babel/babel">Babel</a>
+    </td>
+    <!-- -->
+    <td align="center">
       <a href="https://github.com/typeorm/typeorm">
         <img src="https://avatars0.githubusercontent.com/u/20165699?s=200&v=4" width="100px;" alt="typeorm"/>
       </a>
@@ -42,21 +58,9 @@ I'm **microld**, a senior front-end development engineer from Wuhan, Hubei, Chin
       <a href="https://github.com/facebook/react">React</a>
     </td>
     <!-- -->
-    <td align="center">
-      <a href="https://github.com/thanhtoan1196">
-        <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
-      </a>
-      <br />
-      <a href="https://github.com/thanhtoan1196">Toan Tran</a>
-    </td>
     
-    <td align="center">
-      <a href="https://github.com/memset0">
-        <img src="https://avatars2.githubusercontent.com/u/34177126" width="100px;" alt="memset0"/>
-      </a>
-      <br />
-      <a href="https://github.com/memset0">memset0</a>
-    </td>
+    
+    
     <td align="center">
       <a href="https://github.com/jq2">
         <img src="https://avatars2.githubusercontent.com/u/26396467" width="100px;" alt="jq2"/>
