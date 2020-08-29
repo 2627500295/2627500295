@@ -12,6 +12,10 @@ I'm **microld**, a senior front-end development engineer from Wuhan, Hubei, Chin
 -   :thinking: Rust & MySQL & Nest.js & React & Taro.
 -   :email: admin@microlove.me
 
+---
+
+#### :sparkles: My Followers
+
 <!--
 -   :package: Building Huozi and more
 -   :seedling: Learning competitive programming
