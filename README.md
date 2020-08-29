@@ -28,7 +28,7 @@ I'm **microld**, a senior front-end development engineer from Wuhan, Hubei, Chin
     <!-- -->
     <td align="center">
       <a href="https://github.com/babel/babel">
-        <img src="https://avatars2.githubusercontent.com/u/34177126" width="100px;" alt="babel"/>
+        <img src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png" width="100px;" alt="babel"/>
       </a>
       <br />
       <a href="https://github.com/babel/babel">Babel</a>
