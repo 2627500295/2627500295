@@ -5,10 +5,13 @@
 I'm **microld**, a senior front-end development engineer from Wuhan, Hubei, China.
 
 -   :hammer_and_pick: JS/TS/GitHub Actions, a little bit Rust/Golang.
--   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
 -   :pencil2: Arch Linux & KDE & yakuake & Oh My Zsh & VS Code
 -   :seedling: Learning competitive programming
 -   :man: Pronouns: he/him
+
+<!--
+-   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
+-->
 
 ---
 
