@@ -19,23 +19,21 @@ I'm **microld**, a senior front-end development engineer from Wuhan, Hubei, Chin
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/microsoft/TypeScript" width="100px" height="100px" style="display: block;">
-        <img
-          src="https://raw.githubusercontent.com/github/explore/gh-pages/topics/typescript/typescript.png"
-          width="100px;"
-          alt="TypeScript"
-        />
+      <a href="https://github.com/microsoft/TypeScript">
+        <div width="100px" height="100px">
+          <img src="https://raw.githubusercontent.com/github/explore/gh-pages/topics/typescript/typescript.png" width="100px;" alt="TypeScript"
+          />
+        </div>
       </a>
       <br />
       <a href="https://github.com/microsoft/TypeScript">TypeScript</a>
     </td>
     <td align="center">
       <a href="https://github.com/babel/babel">
-        <img
-          src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png"
-          width="100px;"
-          alt="babel"
+        <div width="100px" height="100px">
+          <img src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png" width="100px;" alt="babel"
         />
+        </div>
       </a>
       <br />
       <a href="https://github.com/babel/babel">Babel</a>
