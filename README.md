@@ -235,7 +235,17 @@ I'm **microld**, a senior front-end development engineer from Wuhan, Hubei, Chin
       <br />
       <a href="https://github.com/vuejs/pinia">Pinia</a>
     </td>
-    <td></td>
+    <td align="center">
+      <a href="https://github.com/nuxt/nuxt.js">
+        <img
+          src="https://avatars.githubusercontent.com/u/23360933?s=200&v=4"
+          width="100px;"
+          alt="NuxtJS"
+        />
+      </a>
+      <br />
+      <a href="https://github.com/nuxt/nuxt.js">NuxtJS</a>
+    </td>
     <td></td>
     <td></td>
     <td></td>
