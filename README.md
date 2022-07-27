@@ -290,8 +290,28 @@ I'm **microld**, a senior front-end development engineer from Wuhan, Hubei, Chin
       <a href="https://github.com/webpack/webpack">Webpack</a
       >
     </td>
-    <td></td>
-    <td></td>
+    <td align="center">
+      <a href="https://github.com/rollup/rollup">
+        <img
+          src="https://avatars.githubusercontent.com/u/12554859?s=200&v=4"
+          width="100px;"
+          alt="Rollup"
+        />
+      </a>
+      <br />
+      <a href="https://github.com/rollup/rollup">Rollup</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/evanw/esbuild">
+        <img
+          src="https://github.com/evanw/esbuild/raw/master/images/logo.svg"
+          width="100px;"
+          alt="ESBuild"
+        />
+      </a>
+      <br />
+      <a href="https://github.com/evanw/esbuild">ESBuild</a>
+    </td>
     <td></td>
     <td></td>
   </tr>
