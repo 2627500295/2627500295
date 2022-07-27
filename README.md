@@ -271,14 +271,25 @@ I'm **microld**, a senior front-end development engineer from Wuhan, Hubei, Chin
         <img
           src="https://avatars.githubusercontent.com/u/65625612?s=200&v=4"
           width="100px;"
-          alt="serverless"
+          alt="Vite.js"
         />
       </a>
       <br />
       <a href="https://github.com/vitejs/vite">Vite.js</a
       >
     </td>
-    <td></td>
+    <td align="center">
+      <a href="https://github.com/webpack/webpack">
+        <img
+          src="https://avatars.githubusercontent.com/u/2105791?s=200&v=4"
+          width="100px;"
+          alt="webpack"
+        />
+      </a>
+      <br />
+      <a href="https://github.com/webpack/webpack">Webpack</a
+      >
+    </td>
     <td></td>
     <td></td>
     <td></td>
