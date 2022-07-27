@@ -312,7 +312,17 @@ I'm **microld**, a senior front-end development engineer from Wuhan, Hubei, Chin
       <br />
       <a href="https://github.com/evanw/esbuild">ESBuild</a>
     </td>
-    <td></td>
+    <td align="center">
+      <a href="https://github.com/swc-project/swc">
+        <img
+          src="https://avatars.githubusercontent.com/u/26715726?s=200&v=4"
+          width="100px;"
+          alt="SWC"
+        />
+      </a>
+      <br />
+      <a href="https://github.com/swc-project/swc">SWC</a>
+    </td>
     <td></td>
   </tr>
 </table>
