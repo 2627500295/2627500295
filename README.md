@@ -8,8 +8,7 @@ I'm **microld**, a senior front-end development engineer from Wuhan, Hubei, Chin
 
 -   :hammer_and_pick: JS/TS, a little bit PHP.
 -   :pencil2: MacOS & Zsh & VS Code & IntelliJ IDEA & iTerm2.
--   :bulb: Clash & V2ray & Trojan & Shadowsocks.
--   :thinking: Rust & MySQL & Nest.js & React & Taro.
+-   :thinking: React & Taro & Nest.js & MySQL & Vue.js next.
 -   :email: admin@microlove.me
 
 ---
