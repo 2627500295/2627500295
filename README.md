@@ -6,7 +6,7 @@
 
 I'm **microld**, a senior front-end development engineer from Wuhan, Hubei, China.
 
--   :hammer_and_pick: JS/TS/GitHub Actions, a little bit Rust/Golang.
+-   :hammer_and_pick: JS/TS, a little bit PHP.
 -   :pencil2: MacOS & Zsh & VS Code & IntelliJ IDEA & iTerm2.
 -   :bulb: Clash & V2ray & Trojan & Shadowsocks.
 -   :thinking: Rust & MySQL & Nest.js & React & Taro.
