@@ -266,7 +266,18 @@ I'm **microld**, a senior front-end development engineer from Wuhan, Hubei, Chin
         >Serverless Framework</a
       >
     </td>
-    <td></td>
+    <td align="center">
+      <a href="https://github.com/vitejs/vite">
+        <img
+          src="https://avatars.githubusercontent.com/u/65625612?s=200&v=4"
+          width="100px;"
+          alt="serverless"
+        />
+      </a>
+      <br />
+      <a href="https://github.com/vitejs/vite">Vite.js</a
+      >
+    </td>
     <td></td>
     <td></td>
     <td></td>
