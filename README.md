@@ -66,15 +66,13 @@ I'm **microld**, a senior front-end development engineer from Wuhan, Hubei, Chin
       <a href="https://github.com/vuejs/vue">Vue.js</a>
     </td>
     <!-- -->
-    
     <td align="center">
       <a href="https://github.com/serverless/serverless">
-        <img src="https://user-images.githubusercontent.com/2752551/30405069-a7751fee-989e-11e7-9a58-f93f8e820bd1.png" width="100px;" alt="serverless"/>
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/serverless/serverless.png" width="100px;" alt="serverless"/>
       </a>
       <br />
       <a href="https://github.com/serverless/serverless">Serverless Framework</a>
     </td>
-    
   </tr>
 </table>
 
