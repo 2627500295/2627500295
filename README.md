@@ -213,8 +213,28 @@ I'm **microld**, a senior front-end development engineer from Wuhan, Hubei, Chin
       <br />
       <a href="https://github.com/vuejs/vue">Vue.js</a>
     </td>
-    <td></td>
-    <td></td>
+    <td align="center">
+      <a href="https://github.com/vuejs/router">
+        <img
+          src=""
+          width="100px;"
+          alt="Vue Router"
+        />
+      </a>
+      <br />
+      <a href="https://github.com/vuejs/router">Vue Router</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vuejs/pinia">
+        <img
+          src="https://pinia.vuejs.org/logo.svg"
+          width="100px;"
+          alt="Pinia"
+        />
+      </a>
+      <br />
+      <a href="https://github.com/vuejs/pinia">Pinia</a>
+    </td>
     <td></td>
     <td></td>
     <td></td>
