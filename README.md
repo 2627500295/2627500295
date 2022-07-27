@@ -68,7 +68,7 @@ I'm **microld**, a senior front-end development engineer from Wuhan, Hubei, Chin
     <!-- -->
     <td align="center">
       <a href="https://github.com/serverless/serverless">
-        <img src="https://user-images.githubusercontent.com/2752551/30405069-a7751fee-989e-11e7-9a58-f93f8e820bd1.png" width="100px;" alt="serverless"/>
+        <img src="https://pics.freeicons.io/uploads/icons/png/18661926311551942828-512.png" width="100px;" alt="serverless"/>
       </a>
       <br />
       <a href="https://github.com/serverless/serverless">Serverless Framework</a>
